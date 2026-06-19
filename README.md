@@ -1,5 +1,4 @@
-## Hi there 👋
-# 💫 About Me:
+## Hi there 👋💫 
 Hi, I'm Pavithra. I'm currently pursuing a Master's in Data Intelligence at USF and have around 18 months of experience as a Software Engineer. My background includes designing and maintaining ETL pipelines, data integration solutions, and enterprise-scale data warehouse systems.<br><br>I'm passionate about data engineering, analytics, and AI, with experience in Python, Oracle, machine learning, Generative AI, LLMs, and Power BI. I enjoy transforming complex data into actionable insights and building data-driven solutions that solve real business problems.<br><br>I'm also serving as a Teaching Assistant at USF, where I support students in statistics and systems analysis courses. 
 
 
